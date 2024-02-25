@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VoVa_PC\\source\\repos\\progressScript\\progressScript\\progressScript.csproj": {}
+    "C:\\Study\\C#\\FolderCreator\\progressScript\\progressScript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VoVa_PC\\source\\repos\\progressScript\\progressScript\\progressScript.csproj": {
+    "C:\\Study\\C#\\FolderCreator\\progressScript\\progressScript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VoVa_PC\\source\\repos\\progressScript\\progressScript\\progressScript.csproj",
+        "projectUniqueName": "C:\\Study\\C#\\FolderCreator\\progressScript\\progressScript.csproj",
         "projectName": "progressScript",
-        "projectPath": "C:\\Users\\VoVa_PC\\source\\repos\\progressScript\\progressScript\\progressScript.csproj",
-        "packagesPath": "C:\\Users\\VoVa_PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VoVa_PC\\source\\repos\\progressScript\\progressScript\\obj\\",
+        "projectPath": "C:\\Study\\C#\\FolderCreator\\progressScript\\progressScript.csproj",
+        "packagesPath": "C:\\Users\\Volodymyr\\.nuget\\packages\\",
+        "outputPath": "C:\\Study\\C#\\FolderCreator\\progressScript\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VoVa_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volodymyr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

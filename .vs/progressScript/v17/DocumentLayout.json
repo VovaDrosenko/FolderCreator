@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\C#\\FolderCreator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}|progressScript\\progressScript.csproj|c:\\study\\c#\\foldercreator\\progressscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}|progressScript\\progressScript.csproj|solutionrelative:progressscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F10E96-2686-4E6A-8211-FD6B9964641E}|Solution Items{39F10E96-2686-4E6A-8211-FD6B9964641E}|C:\\Study\\C#\\FolderCreator\\progressScript\\bin\\Debug\\net8.0\\create_folders_script.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{39F10E96-2686-4E6A-8211-FD6B9964641E}|Solution Items{39F10E96-2686-4E6A-8211-FD6B9964641E}|solutionrelative:progressScript\\bin\\Debug\\net8.0\\create_folders_script.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create_folders_script.ps1",
+              "DocumentMoniker": "C:\\Study\\C#\\FolderCreator\\progressScript\\bin\\Debug\\net8.0\\create_folders_script.ps1",
+              "RelativeDocumentMoniker": "progressScript\\bin\\Debug\\net8.0\\create_folders_script.ps1",
+              "ToolTip": "C:\\Study\\C#\\FolderCreator\\progressScript\\bin\\Debug\\net8.0\\create_folders_script.ps1",
+              "RelativeToolTip": "progressScript\\bin\\Debug\\net8.0\\create_folders_script.ps1",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOzSURBVEhLpZZLbBtVFIb/GcdJ45CEFqmKBM6iqHEqJXVVCRBLVrDIDlq6YUErsQN2sEshYlOpCx4rkGiLlA3qIhWkQQioI0SSKjExrmhwmzS1HeO3x47t8WNet\u002Bfejh1bpJFrPunXuT6e\u002Bc\u002Bcc\u002B84kUAEAgHGY6fMzc19OjMz8xUtCyRTJPeDsce\u002BvECnRMJhdnt5mU1PT39Ctz5HcgiTg3iaApz5\u002BXlRqJMish1FN52K4x4dxYXz5y9Skffp47OkfYs0C3RDJ0Wam\u002Bz1ekWiExYWFuzVHlNTU69QCJGKItEKL2Ca5lNLURQWpr0IBoN8bmdIzwvDFv7XiIaHh\u002BF2uzExMcE/DpCcfNFKV5u8n55Ecw8mJ8VTtGFZFn7\u002BxQfX4OBjI8pxUZoig8VFCZ4zTNNiTGKSJLF8Llu/cO7NZ7hHs4DdZhvhcASRjILR42MwyZQbZlWNTBkG\u002B3uFuUFrshavM6MoO2QEF2/hg3fOCO\u002BWPWg8354eRnfgHDqMtOzCttSPoHkIXwbSOD16FB/9HsVndxR8n5PwXZrhyr86rkZr0DQTsVisSgaClj34rzL5Aqo9/YjU6KaqiTipb8hFNzHcfOskouki/thKIlmuI12swajVEcsWkM\u002BkErbtwR2olgO5OsMOFdipGohVdMRp/dJsABINwHfOK0a2lStjM1tCWa0jkc5hN5NaJQPBgR1UHX2IawzxCjc3cK\u002BkI6wa\u002BPg1D3Sa9\u002BXVCBLFOnYUFam8ih5Dh15IQy3kfrRtn9xBIpEE3YKHuoyNoo61fB1La/dx4/UX8fYLA3hjdg3frkUxwjQ41AqcuoZByUIpX2CVUmmeO3JaOmg/16HtMHKGA34VuEtPvkkaO\u002BKCU2I4\u002Bc0Krp89jfX3XsUPZ0/hSI\u002BEilqDbhioKCnNt\u002Bhr/lw0j\u002BmJE\u002BMi0WD2xk\u002B4ZRxFyekSR5EfUYPGYpH4L5pF51ZidHYJmb7vpTgkG\u002BhbX4hd\u002B\u002BKSW3xB9NhRPHUrVU3Hh55eHBs5LIbGn4ReImg0it3CLgxqPpXK4NiYB3/6/XjZO4mlUBTXc5mAMLBp2YN2DHpdsyUVK/e2cZu0EtrG8j8P4N\u002BKIpTOY/Xv\u002B1gKbEDZLWF9YxN3o0nEMzmUC8pN20LQHNH4uEckGkx//jW9nYwuoEuoO6nRYVuntKaRSbKMWrWmVSvl8oM7/uO\u002B335V7Av2Cng8YyLRLS7XwLsUFklhkbARBYgR0ik7dkuS9JcdmzQKHCLxP3k8dkuNxP\u002BN4dEGeARCm\u002Bt1DHMFWgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-25T19:32:10.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Study\\C#\\FolderCreator\\progressScript\\Program.cs",
+              "RelativeDocumentMoniker": "progressScript\\Program.cs",
+              "ToolTip": "C:\\Study\\C#\\FolderCreator\\progressScript\\Program.cs",
+              "RelativeToolTip": "progressScript\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:27:47.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

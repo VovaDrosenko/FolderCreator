@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progressScript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d21e93c498d3fb4f760038160bccf2f04b8b15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("progressScript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progressScript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

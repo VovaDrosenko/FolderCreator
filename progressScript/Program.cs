@@ -1,6 +1,4 @@
-﻿using System;
-using System.Diagnostics;
-using System.Threading;
+﻿using System.Diagnostics;
 
 class Program
 {
@@ -12,7 +10,7 @@ class Program
         string inputCount = Console.ReadLine();
         int count;
         string scriptArgument;
-        
+        List<string> nameList = new List<string>();
 
         if (!int.TryParse(inputCount, out count))
         {
@@ -20,14 +18,20 @@ class Program
             return;
         }
 
-        Console.Write("Name of Folders:");
-        string name = Console.ReadLine();
+        Console.WriteLine("Name of Folders:");
+        for (int i = 0; i < count; i++) 
+        {
+            Console.Write($"{i + 1}. "); 
+            string name = Console.ReadLine();
+            if (!string.IsNullOrEmpty(name)) 
+                nameList.Add(name);
+        }
 
-
-        Console.Write("Path:");
+        Console.Write("Path: ");
         string path = Console.ReadLine();
 
-        scriptArgument = $"-count {count} -name {name} -path {path}";
+        scriptArgument = $"-count {count} -name '{string.Join(",", nameList)}' -path {path}";
+
 
         Process process = new Process();
         process.StartInfo.FileName = "powershell.exe";
@@ -37,15 +41,12 @@ class Program
         process.StartInfo.RedirectStandardError = true;
 
 
-        // Запускаємо окремий потік для виводу тексту завантаження
         Thread loadingThread = new Thread(() =>
         {
-            // Початковий відсоток прогресу
             int progress = 0;
 
             while (progress <= 100)
             {
-                // Оновлення рядка прогресу
                 Console.SetCursorPosition(0, Console.CursorTop);
                 Console.Write($"Loading progress: {progress}%");
 

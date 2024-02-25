@@ -1,10 +1,11 @@
 param(
-    $count,
-    $name,
-    $path
+    [int]$count,
+    [string]$names,
+    [string]$path
 )
 
-$current = 0
+$nameArray = $names -split ',' | ForEach-Object { $_.Trim(',') }
+
 $folderNameMain = "FolderWithFolders"
 
 if (-not (Test-Path $path)) {
@@ -13,11 +14,10 @@ if (-not (Test-Path $path)) {
 
 New-Item -ItemType Directory -Path "$path\$folderNameMain" -Force
 
-for ($i = 1; $i -le $count; $i++) {
-    $folderName = "${name}$i"
-    New-Item -ItemType Directory -Path "$path\$(Join-Path -Path $folderNameMain -ChildPath $folderName)" -Force
-    $current++
-    $progress = $current * 100 / $count
-    Write-Output $progress
+foreach ($name in $nameArray) {
+    $name = $name.Trim("'")
+
+    $fullPath = Join-Path -Path $path -ChildPath (Join-Path -Path $folderNameMain -ChildPath $name)
+    New-Item -ItemType Directory -Path $fullPath -Force
     Start-Sleep -Seconds 0.2
 }
