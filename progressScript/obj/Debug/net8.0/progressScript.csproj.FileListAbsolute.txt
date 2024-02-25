@@ -1,0 +1,14 @@
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\bin\Debug\net8.0\progressScript.exe
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\bin\Debug\net8.0\progressScript.deps.json
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\bin\Debug\net8.0\progressScript.runtimeconfig.json
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\bin\Debug\net8.0\progressScript.dll
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\bin\Debug\net8.0\progressScript.pdb
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.AssemblyInfoInputs.cache
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.AssemblyInfo.cs
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.csproj.CoreCompileInputs.cache
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.dll
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\refint\progressScript.dll
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.pdb
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\progressScript.genruntimeconfig.cache
+C:\Users\VoVa_PC\source\repos\progressScript\progressScript\obj\Debug\net8.0\ref\progressScript.dll

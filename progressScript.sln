@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "progressScript", "progressScript\progressScript.csproj", "{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F261F1CA-4864-4B60-BEB1-322C1E4DC2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47D80C2-633E-41C7-BBE5-274695A436A6}
+	EndGlobalSection
+EndGlobal
